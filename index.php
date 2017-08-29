@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Bernard First task</title>
+        <title>EpicalBreed First task</title>
         <link rel="stylesheet" href="css/insert.css" />
     </head>
     <body><center>
@@ -10,7 +10,7 @@
 				<div class="title"><h2>HNG 2017</h2></div>
    
 				<form action="index.php" method="post">    <!-- method can be set POST for hiding values in URL-->
-					<h2>SAVE TO DATABASE</h2>
+					<h2>INPUT TO DATABASE</h2>
 					<label>Name:</label>
 					<br />
 					<input class="input" type="text" name="name" value="" />
